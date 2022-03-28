@@ -9,6 +9,7 @@ public class Motors {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
 
+    //"properties"
     private Integer id;
     private String vin;
     private String make;
