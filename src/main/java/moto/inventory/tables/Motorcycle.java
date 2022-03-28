@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @SpringBootApplication
 
+
 public class Motorcycle {
 
 	public static void main(String[] args) {
