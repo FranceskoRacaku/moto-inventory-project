@@ -8,10 +8,10 @@
 		<version>2.6.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>moto</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>moto.inventory</groupId>
+	<artifactId>tables</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>tables</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>

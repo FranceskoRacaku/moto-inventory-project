@@ -1,4 +1,4 @@
-package moto.demo.purchases;
+package moto.inventory.tables.purchases;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

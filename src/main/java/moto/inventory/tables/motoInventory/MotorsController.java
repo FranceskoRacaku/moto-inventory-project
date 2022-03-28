@@ -1,4 +1,4 @@
-package moto.demo.motoInventory;
+package moto.inventory.tables.motoInventory;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

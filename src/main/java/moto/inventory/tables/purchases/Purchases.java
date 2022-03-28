@@ -1,4 +1,4 @@
-package moto.demo.purchases;
+package moto.inventory.tables.purchases;
 
 import javax.persistence.*;
 
