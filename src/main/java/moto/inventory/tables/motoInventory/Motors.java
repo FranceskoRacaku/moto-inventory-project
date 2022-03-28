@@ -3,7 +3,7 @@ package moto.inventory.tables.motoInventory;
 import javax.persistence.*;
 
 @Entity
-//@Table
+@Table
 public class Motors {
 
     @Id
