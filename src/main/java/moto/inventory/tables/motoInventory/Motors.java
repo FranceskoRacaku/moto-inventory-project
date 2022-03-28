@@ -7,7 +7,16 @@ import javax.persistence.*;
 public class Motors {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @SequenceGenerator(
+            name= "motors_sequence",
+            sequenceName = "motors_sequence",
+            allocationSize = 1
+    )
+//    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(
+            strategy = GenerationType.SEQUENCE,
+            generator = "motors_sequence"
+            )
 
     private Integer id;
     private String vin;

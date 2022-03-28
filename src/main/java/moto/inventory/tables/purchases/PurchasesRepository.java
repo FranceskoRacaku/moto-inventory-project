@@ -1,4 +1,4 @@
-package moto.inventory.tables.purchases;
-
-public class PurchasesRepository {
-}
+//package moto.inventory.tables.purchases;
+//
+//public class PurchasesRepository {
+//}

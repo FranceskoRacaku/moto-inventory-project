@@ -1,4 +1,4 @@
-package moto.inventory.tables.sellsPlace;
-
-public class Sells {
-}
+//package moto.inventory.tables.sellsPlace;
+//
+//public class Sells {
+//}
