@@ -8,7 +8,7 @@ import java.util.Optional;
 
 @RestController
 @CrossOrigin(origins = "http://localhost:4200")
-@RequestMapping(path = "/motors")
+@RequestMapping(path = "motors")
 
 public class MotorsController {
 
